@@ -7,4 +7,3 @@ iFood, the dominant force in Brazil's online food ordering and delivery space, b
 
 Retrieved the data from [here](https://www.kaggle.com/datasets/jackdaoud/marketing-data?trk=article-ssr-frontend-pulse_little-text-block)
 
-https://ibb.co/hRFqr32
